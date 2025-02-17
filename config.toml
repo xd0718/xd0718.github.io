@@ -1,7 +1,7 @@
 baseURL = 'https://diyai.us.kg'
 languageCode = 'en-us'
 title = 'GoldenMagicBox'
-theme = 'Dream'
+theme = 'ananke'
 
 [params]
   defaultTheme = "auto"
